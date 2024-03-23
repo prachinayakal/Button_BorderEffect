@@ -18,4 +18,4 @@ Feel free to explore and modify the HTML and CSS files to customize the button a
 
 ## Credits
 
-This project is created by [Your Name].
+This project is created by Prachi Nayakal.
