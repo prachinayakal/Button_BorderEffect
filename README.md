@@ -7,7 +7,8 @@ This repository contains an HTML and CSS file showcasing a captivating button wi
 
 ## Preview
 
-![Animated Border Button Preview](animated_button.gif)
+![button-gif](https://github.com/prachinayakal/Button_BorderEffect/assets/121372605/5e0a7c1a-f840-40be-98f2-bd276f6f5626)
+
 
 ## Usage
 
